@@ -1,3 +1,2 @@
-# Python-implements-a-Redis-like-NoSQL-database
-Python implements a Redis-like NoSQL database
+# A-Redis-like-NoSQL-database in Python
 Python实现类Redis的NoSQL数据库
